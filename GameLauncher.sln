@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleScrollSnap", "SimpleScrollSnap.csproj", "{eebedc9b-eb05-def0-2917-afddb621d841}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{0a06cdcf-cb81-9c24-ecfd-296033c41f01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleInspectorAttributes", "SimpleInspectorAttributes.csproj", "{24c7b9ee-bf2e-1fd3-7e77-6d7f044b4e49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "Utilities.csproj", "{d6cd1267-e8dd-540e-b04d-0a03c5c2a83d}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleScrollSnapEditor", "SimpleScrollSnapEditor.csproj", "{36404cd3-4856-8e44-7148-bc0aebae4553}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyrightNoticeEditor", "CopyrightNoticeEditor.csproj", "{9ff2e0ad-27e4-a5bb-e5e1-42b2c22852d6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilitiesEditor", "UtilitiesEditor.csproj", "{832f4d32-c6e0-c5bd-4565-1d6d8a43f632}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleInspectorAttributesEditor", "SimpleInspectorAttributesEditor.csproj", "{9203ab61-85eb-de5c-05e3-e440cc4f920e}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{eebedc9b-eb05-def0-2917-afddb621d841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{eebedc9b-eb05-def0-2917-afddb621d841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0a06cdcf-cb81-9c24-ecfd-296033c41f01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0a06cdcf-cb81-9c24-ecfd-296033c41f01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24c7b9ee-bf2e-1fd3-7e77-6d7f044b4e49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24c7b9ee-bf2e-1fd3-7e77-6d7f044b4e49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{d6cd1267-e8dd-540e-b04d-0a03c5c2a83d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{d6cd1267-e8dd-540e-b04d-0a03c5c2a83d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36404cd3-4856-8e44-7148-bc0aebae4553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36404cd3-4856-8e44-7148-bc0aebae4553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ff2e0ad-27e4-a5bb-e5e1-42b2c22852d6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ff2e0ad-27e4-a5bb-e5e1-42b2c22852d6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{832f4d32-c6e0-c5bd-4565-1d6d8a43f632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{832f4d32-c6e0-c5bd-4565-1d6d8a43f632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9203ab61-85eb-de5c-05e3-e440cc4f920e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9203ab61-85eb-de5c-05e3-e440cc4f920e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
